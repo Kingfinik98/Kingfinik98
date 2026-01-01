@@ -2,6 +2,6 @@
 
 ### Hello everyone, how are you today?
 
-- BoltX Gki Kernel 
+- BoltX Official 
 - I am still a beginner.
 - I learned to build GKI kernel.
