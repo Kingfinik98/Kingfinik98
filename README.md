@@ -18,6 +18,9 @@
 
 ## 🚀 My Stats
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Kingfinik98&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Kingfinik98&theme=tokyonight&hide_border=true"/>
@@ -36,7 +39,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingfinik98&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kingfinik98&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
