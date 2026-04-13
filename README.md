@@ -18,9 +18,6 @@
 
 ## 🚀 My Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kingfinik98&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400&v=1"/>
-</p>
 
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=Kingfinik98&theme=tokyonight&hide_border=true"/>
