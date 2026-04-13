@@ -1,7 +1,39 @@
-![BoltX's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=Kingfinik98&show_icons=true&include_all_commits=true)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0051FF&height=220&section=header&text=VorteX%20GKI%20Kernel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
-### Hello everyone, how are you today?
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=25&lines=Hello+everyone+👋;How+are+you+today?;VorteX+Kernel+GKI;Performance+%2B+Stability+🔥">
+</p>
 
-- BoltX Kernel Gki
-- Actively learning and improving
-- I learned to build GKI kernel.
+---
+
+## 👋 Hello everyone, how are you today?
+
+- ⚡ VorteX Kernel GKI  
+- 🧠 Actively learning and improving  
+- 🔧 I learned to build GKI kernel  
+
+---
+
+## 🚀 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kingfinik98&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingfinik98&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingfinik98&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🧬 Signature
